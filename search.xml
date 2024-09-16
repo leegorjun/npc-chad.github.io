@@ -1,31 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>更新日志 2024-9-17-release-notes</title>
-    <url>/posts/2024-9-17-release-notes/</url>
-    <content><![CDATA[<h2 id="BLOG-SITE-Chad的个人博客-npc-chad-github-io"><a href="#BLOG-SITE-Chad的个人博客-npc-chad-github-io" class="headerlink" title="BLOG SITE: Chad的个人博客 (npc-chad.github.io)"></a>BLOG SITE: <a href="https://npc-chad.github.io/">Chad的个人博客 (npc-chad.github.io)</a></h2><h3 id="2024-9-17-更新，优化页面，添加abbrlink插件—-hexo-abbrlink"><a href="#2024-9-17-更新，优化页面，添加abbrlink插件—-hexo-abbrlink" class="headerlink" title="2024&#x2F;9&#x2F;17 更新，优化页面，添加abbrlink插件—-hexo-abbrlink"></a>2024&#x2F;9&#x2F;17 更新，优化页面，添加abbrlink插件—-<a href="https://gitcode.com/gh_mirrors/he/hexo-abbrlink/overview">hexo-abbrlink</a></h3><h4 id="2024-9-16-为Blog添加第一个文章"><a href="#2024-9-16-为Blog添加第一个文章" class="headerlink" title="2024&#x2F;9&#x2F;16 为Blog添加第一个文章"></a>2024&#x2F;9&#x2F;16 为Blog添加第一个文章</h4><h4 id="2024-9-16-根据Hexo文档和Butterfly文档建立Blog"><a href="#2024-9-16-根据Hexo文档和Butterfly文档建立Blog" class="headerlink" title="2024&#x2F;9&#x2F;16 根据Hexo文档和Butterfly文档建立Blog"></a>2024&#x2F;9&#x2F;16 根据<a href="https://hexo.io/zh-cn/docs/">Hexo文档</a>和<a href="https://butterfly.js.org/">Butterfly文档</a>建立Blog</h4>]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>更新日志 2024-9-17-release-notes</title>
+      <link href="/posts/2024-9-17-release-notes/"/>
+      <url>/posts/2024-9-17-release-notes/</url>
+      
+        <content type="html"><![CDATA[<h2 id="BLOG-SITE-Chad的个人博客-npc-chad-github-io"><a href="#BLOG-SITE-Chad的个人博客-npc-chad-github-io" class="headerlink" title="BLOG SITE: Chad的个人博客 (npc-chad.github.io)"></a>BLOG SITE: <a href="https://npc-chad.github.io/">Chad的个人博客 (npc-chad.github.io)</a></h2><h3 id="2024-9-17-更新，优化页面，添加abbrlink插件—-hexo-abbrlink"><a href="#2024-9-17-更新，优化页面，添加abbrlink插件—-hexo-abbrlink" class="headerlink" title="2024&#x2F;9&#x2F;17 更新，优化页面，添加abbrlink插件—-hexo-abbrlink"></a>2024&#x2F;9&#x2F;17 更新，优化页面，添加abbrlink插件—-<a href="https://gitcode.com/gh_mirrors/he/hexo-abbrlink/overview">hexo-abbrlink</a></h3><h4 id="2024-9-16-为Blog添加第一个文章"><a href="#2024-9-16-为Blog添加第一个文章" class="headerlink" title="2024&#x2F;9&#x2F;16 为Blog添加第一个文章"></a>2024&#x2F;9&#x2F;16 为Blog添加第一个文章</h4><h4 id="2024-9-16-根据Hexo文档和Butterfly文档建立Blog"><a href="#2024-9-16-根据Hexo文档和Butterfly文档建立Blog" class="headerlink" title="2024&#x2F;9&#x2F;16 根据Hexo文档和Butterfly文档建立Blog"></a>2024&#x2F;9&#x2F;16 根据<a href="https://hexo.io/zh-cn/docs/">Hexo文档</a>和<a href="https://butterfly.js.org/">Butterfly文档</a>建立Blog</h4>]]></content>
+      
+      
       <categories>
-        <category>更新日志</category>
+          
+          <category> 更新日志 </category>
+          
       </categories>
-      <tags>
-        <tag>更新日志</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>关于我</title>
-    <url>/posts/9ff79b23/</url>
-    <content><![CDATA[<p>⠀⠀⠀⠀⠀💎╭––––––––––––––––––––––––– • • –––––––––––––––––––––––––╮💎<br>⠀⠀⠀⠀⠀⠀⠀|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|<br>⠀⠀⠀⠀⠀⠀⠀|⠀⠀⠀⠀⠀⠀⠀⠀⠀🐯 <strong>Wish you have a nice day!</strong> 🐯⠀⠀⠀⠀⠀⠀⠀⠀⠀|<br>⠀⠀⠀⠀⠀⠀⠀|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|<br>⠀⠀⠀⠀⠀💎╰––––––––––––––––––––––––– • • –––––––––––––––––––––––––╯💎</p>
-<h3 id="⠀🌟⠀⠀About-me⠀⠀🌟"><a href="#⠀🌟⠀⠀About-me⠀⠀🌟" class="headerlink" title="⠀🌟⠀⠀About me⠀⠀🌟"></a>⠀🌟⠀⠀About me⠀⠀🌟</h3><p>​    。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。<br>​    ︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵</p>
-<p> ⠀⠀💛<strong>Name：</strong>Chad Lee<br> ⠀⠀💛<strong>Age：</strong>25 years old<br> ⠀⠀💛<strong>Occupation：</strong>HW  Engineer<br> ⠀⠀💛<strong>Location：</strong> <a href="https://ditu.amap.com/search?query=%E6%B7%B1%E5%9C%B3">深圳·中国</a><br> ⠀⠀💛<strong>Bilibili：</strong><a href="https://space.bilibili.com/73740357">哔哩♂哔哩</a></p>
-<h3 id="⠀🍏⠀⠀⠀MY-PC⠀⠀⠀🍏"><a href="#⠀🍏⠀⠀⠀MY-PC⠀⠀⠀🍏" class="headerlink" title="⠀🍏⠀⠀⠀MY PC⠀⠀⠀🍏"></a>⠀🍏⠀⠀⠀MY PC⠀⠀⠀🍏</h3><p>​    。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。<br>   ︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵</p>
-<p> ⠀⠀💚 <strong>OS：</strong>Microsoft Windows 10<br> ⠀⠀💚 <strong>CPU：</strong>13th Gen Intel(R) Core(TM) i5-13600KF<br> ⠀⠀💚 <strong>Motherboard：</strong>ASUS TUF GAMING Z690-PLUS WIFI D4<br> ⠀⠀💚 <strong>RAM：</strong>KingBank DDR4 3600MHz RGB 8GBx4<br> ⠀⠀💚 <strong>GPU：</strong>Gigabyte NVIDIA GeForce RTX 4070 Ti<br> ⠀⠀💚 <strong>SSD：</strong>SAMSUNG 980EVO 2TB</p>
-<h3 id="⠀🌊⠀⠀⠀Devices⠀⠀🌊"><a href="#⠀🌊⠀⠀⠀Devices⠀⠀🌊" class="headerlink" title="⠀🌊⠀⠀⠀Devices⠀⠀🌊"></a>⠀🌊⠀⠀⠀Devices⠀⠀🌊</h3><p>​    。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。<br>   ︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵<br> ⠀⠀💙 <strong>Mice：</strong>Razer Viper Ultimate<br> ⠀⠀💙 <strong>Keyboard：</strong>VGN S99<br> ⠀⠀💙 <strong>Headset：</strong>HyperX Cloud Earbuds</p>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> 更新日志 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于我</title>
+      <link href="/posts/9ff79b23/"/>
+      <url>/posts/9ff79b23/</url>
+      
+        <content type="html"><![CDATA[<p>⠀⠀⠀⠀⠀💎╭––––––––––––––––––––––––– • • –––––––––––––––––––––––––╮💎<br>⠀⠀⠀⠀⠀⠀⠀|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|<br>⠀⠀⠀⠀⠀⠀⠀|⠀⠀⠀⠀⠀⠀⠀⠀⠀🐯 <strong>Wish you have a nice day!</strong> 🐯⠀⠀⠀⠀⠀⠀⠀⠀⠀|<br>⠀⠀⠀⠀⠀⠀⠀|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|<br>⠀⠀⠀⠀⠀💎╰––––––––––––––––––––––––– • • –––––––––––––––––––––––––╯💎</p><h3 id="⠀🌟⠀⠀About-me⠀⠀🌟"><a href="#⠀🌟⠀⠀About-me⠀⠀🌟" class="headerlink" title="⠀🌟⠀⠀About me⠀⠀🌟"></a>⠀🌟⠀⠀About me⠀⠀🌟</h3><p>​    。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。<br>​    ︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵</p><p> ⠀⠀💛<strong>Name：</strong>Chad Lee<br> ⠀⠀💛<strong>Age：</strong>25 years old<br> ⠀⠀💛<strong>Occupation：</strong>HW  Engineer<br> ⠀⠀💛<strong>Location：</strong> <a href="https://ditu.amap.com/search?query=%E6%B7%B1%E5%9C%B3">深圳·中国</a><br> ⠀⠀💛<strong>Bilibili：</strong><a href="https://space.bilibili.com/73740357">哔哩♂哔哩</a></p><h3 id="⠀🍏⠀⠀⠀MY-PC⠀⠀⠀🍏"><a href="#⠀🍏⠀⠀⠀MY-PC⠀⠀⠀🍏" class="headerlink" title="⠀🍏⠀⠀⠀MY PC⠀⠀⠀🍏"></a>⠀🍏⠀⠀⠀MY PC⠀⠀⠀🍏</h3><p>​    。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。<br>   ︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵</p><p> ⠀⠀💚 <strong>OS：</strong>Microsoft Windows 10<br> ⠀⠀💚 <strong>CPU：</strong>13th Gen Intel(R) Core(TM) i5-13600KF<br> ⠀⠀💚 <strong>Motherboard：</strong>ASUS TUF GAMING Z690-PLUS WIFI D4<br> ⠀⠀💚 <strong>RAM：</strong>KingBank DDR4 3600MHz RGB 8GBx4<br> ⠀⠀💚 <strong>GPU：</strong>Gigabyte NVIDIA GeForce RTX 4070 Ti<br> ⠀⠀💚 <strong>SSD：</strong>SAMSUNG 980EVO 2TB</p><h3 id="⠀🌊⠀⠀⠀Devices⠀⠀🌊"><a href="#⠀🌊⠀⠀⠀Devices⠀⠀🌊" class="headerlink" title="⠀🌊⠀⠀⠀Devices⠀⠀🌊"></a>⠀🌊⠀⠀⠀Devices⠀⠀🌊</h3><p>​    。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。<br>   ︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵<br> ⠀⠀💙 <strong>Mice：</strong>Razer Viper Ultimate<br> ⠀⠀💙 <strong>Keyboard：</strong>VGN S99<br> ⠀⠀💙 <strong>Headset：</strong>HyperX Cloud Earbuds</p>]]></content>
+      
+      
       <categories>
-        <category>记事本</category>
+          
+          <category> 记事本 </category>
+          
       </categories>
-      <tags>
-        <tag>杂谈</tag>
-      </tags>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> 杂谈 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
 </search>
