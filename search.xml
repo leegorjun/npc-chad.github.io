@@ -18,13 +18,6 @@
       </tags>
   </entry>
   <entry>
-    <title>test</title>
-    <url>/posts/d87f7e0c/</url>
-    <content><![CDATA[<p>test </p>
-<p><img src="/../img/test/image-20240918001420896.png" alt="image-20240918001420896"></p>
-]]></content>
-  </entry>
-  <entry>
     <title>更新日志 2024-9-17</title>
     <url>/posts/update-release-notes/</url>
     <content><![CDATA[<h1 id="BLOG-SITE-Chad的个人博客-npc-chad-github-io"><a href="#BLOG-SITE-Chad的个人博客-npc-chad-github-io" class="headerlink" title="BLOG SITE: Chad的个人博客 (npc-chad.github.io)"></a>BLOG SITE: <a href="https://npc-chad.github.io/">Chad的个人博客 (npc-chad.github.io)</a></h1><hr>
@@ -36,5 +29,12 @@
       <tags>
         <tag>更新日志</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>test</title>
+    <url>/posts/d87f7e0c/</url>
+    <content><![CDATA[<p>test </p>
+<p><img src="/../img/test/image-20240918001420896.png" alt="image-20240918001420896"></p>
+]]></content>
   </entry>
 </search>
