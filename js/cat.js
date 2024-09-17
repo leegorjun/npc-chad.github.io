@@ -33,7 +33,7 @@ if (document.body.clientWidth > 992) {
                 zoom: 0.9,
                 borderRadius: 5 + 'px',
                 right: 60 + 'px',
-                nekoImg: 'img/miaomiao.png',
+                nekoImg: 'https://npc-chad.github.io/img/miaomiao.png',
                 hoverMsg: "喵喵喵~",
                 color: "#6f42c1",
                 during: 500,
