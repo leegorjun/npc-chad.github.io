@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>test</title>
+    <url>/posts/d87f7e0c/</url>
+    <content><![CDATA[<p>test </p>
+<p><img src="/../img/test/image-20240918001420896.png" alt="image-20240918001420896"></p>
+]]></content>
+  </entry>
+  <entry>
     <title>关于我</title>
     <url>/posts/9ff79b23/</url>
     <content><![CDATA[<p>⠀⠀⠀⠀⠀💎╭––––––––––––––––––––––––– • • –––––––––––––––––––––––––╮💎<br>⠀⠀⠀⠀⠀⠀⠀|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|<br>⠀⠀⠀⠀⠀⠀⠀|⠀⠀⠀⠀⠀⠀⠀⠀⠀🐯 <strong>Wish you have a nice day!</strong> 🐯⠀⠀⠀⠀⠀⠀⠀⠀⠀|<br>⠀⠀⠀⠀⠀⠀⠀|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|<br>⠀⠀⠀⠀⠀💎╰––––––––––––––––––––––––– • • –––––––––––––––––––––––––╯💎</p>
@@ -18,6 +25,34 @@
       </tags>
   </entry>
   <entry>
+    <title>CSGOCFG</title>
+    <url>/posts/777609d8/</url>
+    <content><![CDATA[<p>虽然8&#x2F;20号开始，CS2已经进入无跳投时代了，但是还是记录一下以前常用的一些按键设置吧，期待一键跳投回归~</p>
+<p><img src="/../img/csgocfg/image-20240918230358694.png" alt="image-20240918230358694"></p>
+<h3 id="滚轮跳"><a href="#滚轮跳" class="headerlink" title="滚轮跳"></a>滚轮跳</h3><figure class="highlight c"><table><tr><td class="code"><pre><span class="line">bind <span class="string">&quot;MWHEELUP&quot;</span> <span class="string">&quot;+jump&quot;</span>;</span><br><span class="line">bind <span class="string">&quot;MWHEELDOWN&quot;</span> <span class="string">&quot;+jump&quot;</span>;</span><br></pre></td></tr></table></figure>
+
+<h3 id="一键扔刀"><a href="#一键扔刀" class="headerlink" title="一键扔刀"></a>一键扔刀</h3><figure class="highlight c"><table><tr><td class="code"><pre><span class="line">bind <span class="string">&quot;\&quot; &quot;</span>say_team !drop<span class="string">&quot;;</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="减少切道具后摇"><a href="#减少切道具后摇" class="headerlink" title="减少切道具后摇"></a>减少切道具后摇</h3><figure class="highlight c"><table><tr><td class="code"><pre><span class="line">bind <span class="string">&quot;z&quot;</span> <span class="string">&quot;+pwaswitchknife; slot7&quot;</span>;</span><br><span class="line">bind <span class="string">&quot;c&quot;</span> <span class="string">&quot;+pwaswitchknife; slot8&quot;</span>;</span><br><span class="line">bind <span class="string">&quot;x&quot;</span> <span class="string">&quot;+pwaswitchknife; slot10&quot;</span>;</span><br></pre></td></tr></table></figure>
+
+<h3 id="一键扔包"><a href="#一键扔包" class="headerlink" title="一键扔包"></a>一键扔包</h3><figure class="highlight c"><table><tr><td class="code"><pre><span class="line">alias +dropC4 <span class="string">&quot;+pwaswitchknife;slot5;drop&quot;</span>;</span><br><span class="line">alias -dropC4 <span class="string">&quot;slot2;slot1&quot;</span>;</span><br><span class="line">bind <span class="string">&quot;h&quot;</span> <span class="string">&quot;+dropC4;say_team 记得拿包;&quot;</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="一键大跳"><a href="#一键大跳" class="headerlink" title="一键大跳"></a>一键大跳</h3><figure class="highlight c"><table><tr><td class="code"><pre><span class="line">alias +pwajump <span class="string">&quot;+jump; +duck&quot;</span>;</span><br><span class="line">alias -pwajump <span class="string">&quot;-jump; -duck&quot;</span>;</span><br><span class="line">bind <span class="string">&quot;ALT&quot;</span> <span class="string">&quot;+pwajump&quot;</span>;</span><br></pre></td></tr></table></figure>
+
+<h3 id="一键跳投"><a href="#一键跳投" class="headerlink" title="一键跳投"></a>一键跳投</h3><figure class="highlight c"><table><tr><td class="code"><pre><span class="line">alias <span class="string">&quot;+pwathrow&quot;</span> <span class="string">&quot;+jump; -attack; -attack2&quot;</span>;</span><br><span class="line">alias <span class="string">&quot;-pwathrow&quot;</span> <span class="string">&quot;-jump&quot;</span>;</span><br><span class="line">bind <span class="string">&quot;CAPSLOCK&quot;</span> <span class="string">&quot;+pwathrow&quot;</span>;</span><br></pre></td></tr></table></figure>
+
+<h3 id="切换雷达缩放"><a href="#切换雷达缩放" class="headerlink" title="切换雷达缩放"></a>切换雷达缩放</h3><figure class="highlight c"><table><tr><td class="code"><pre><span class="line">bind <span class="string">&quot;MOUSE5&quot;</span> <span class="string">&quot;toggle cl_radar_scale 0.4 1&quot;</span>;</span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>记事本</category>
+      </categories>
+      <tags>
+        <tag>杂谈</tag>
+        <tag>游戏</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>更新日志 2024-9-17</title>
     <url>/posts/update-release-notes/</url>
     <content><![CDATA[<h1 id="BLOG-SITE-Chad的个人博客-npc-chad-github-io"><a href="#BLOG-SITE-Chad的个人博客-npc-chad-github-io" class="headerlink" title="BLOG SITE: Chad的个人博客 (npc-chad.github.io)"></a>BLOG SITE: <a href="https://npc-chad.github.io/">Chad的个人博客 (npc-chad.github.io)</a></h1><hr>
@@ -29,12 +64,5 @@
       <tags>
         <tag>更新日志</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>test</title>
-    <url>/posts/d87f7e0c/</url>
-    <content><![CDATA[<p>test </p>
-<p><img src="/../img/test/image-20240918001420896.png" alt="image-20240918001420896"></p>
-]]></content>
   </entry>
 </search>
